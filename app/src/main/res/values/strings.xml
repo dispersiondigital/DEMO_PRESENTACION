@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DEMO LUIS GONZALEZ</string>
+    <string name="title_home">INICIO</string>
+    <string name="title_dashboard">REGISTRO</string>
+    <string name="title_notifications">NOTIFICACIONES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="label_titulo_registro">BIENVENIDO AL REGISTRO</string>
+    <string name="hint_nombre_registro">SU NOMBRE</string>
+    <string name="hint_pass_registro">SU CONTRASEÑA</string>
+    <string name="titulo_about">APLICACION DE MUESTRA </string>
+    <string name="contenido_about">Aplicación desarollada para presentación</string>
+    <string name="boton_registrar">REGISTRAR</string>
+    <string name="boton_salir">SALIR</string>
+    <string name="subtitulo_login">Desarrollado por Luis González P.</string>
+</resources>
