@@ -130,11 +130,11 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     public void onClick(View v) {
         switch (v.getId()){
             case R.id.button_login:
-               /* try {
+                try {
                     conectedToEndPint(this.username.getText().toString(),currentPass);
                 } catch (IOException e) {
                     e.printStackTrace();
-                }*/
+                }
                 MainActivity.show(LoginActivity.this);
                 finish();
                 break;

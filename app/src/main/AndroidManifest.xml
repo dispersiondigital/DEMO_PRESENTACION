@@ -26,7 +26,7 @@
         <activity
             android:name="com.luisgonzalez.demo.MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"></activity>
+            android:theme="@style/AppTheme"></activity>
         <activity
             android:name="com.luisgonzalez.demo.CORE.mSplashActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
