@@ -13,10 +13,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.dispersiondigital.demo.FRAGMENTS.mRegisterFragment;
-import com.dispersiondigital.demo.FRAGMENTS.mAboutFragmentView;
-import com.dispersiondigital.demo.FRAGMENTS.mHomeFragmentView;
-import com.dispersiondigital.smartclaritydemo.R;
+import com.luisgonzalez.demo.FRAGMENTS.mRegisterFragment;
+import com.luisgonzalez.demo.FRAGMENTS.mAboutFragmentView;
+import com.luisgonzalez.demo.FRAGMENTS.mHomeFragmentView;
+import com.luisgonzalez.demo.R;
 
 public class MainActivity extends AppCompatActivity {
     private static String FLAG_CURRENT_VIEW = MainActivity.class.getName();

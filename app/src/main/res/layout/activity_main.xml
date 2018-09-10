@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.dispersiondigital.smartclaritydemo.com.dispersiondigital.demo.MainActivity">
+    tools:context="com.luisgonzalez.demo.MainActivity">
 
     <FrameLayout
         android:id="@+id/content"

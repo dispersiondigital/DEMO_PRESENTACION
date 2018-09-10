@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ProgressBar;
 
-import com.dispersiondigital.smartclaritydemo.R;
+import com.luisgonzalez.demo.R;
 
 public class mSplashActivity extends AppCompatActivity {
 

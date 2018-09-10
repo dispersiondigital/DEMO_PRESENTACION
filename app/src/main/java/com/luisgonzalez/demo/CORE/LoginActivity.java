@@ -19,7 +19,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.luisgonzalez.demo.MainActivity;
-import com.dispersiondigital.smartclaritydemo.R;
+import com.luisgonzalez.demo.R;
 
 
 import org.json.JSONException;

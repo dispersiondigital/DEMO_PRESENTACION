@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.dispersiondigital.demo.CORE.LoginActivity;
-import com.dispersiondigital.smartclaritydemo.R;
+import com.luisgonzalez.demo.CORE.LoginActivity;
+import com.luisgonzalez.demo.R;
 
 /**
  * A simple {@link Fragment} subclass.

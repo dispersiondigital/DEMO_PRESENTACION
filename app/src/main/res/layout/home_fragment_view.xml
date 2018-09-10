@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dispersiondigital.smartclaritydemo.com.dispersiondigital.demo.FRAGMENTS.mHomeFragmentView">
+    tools:context="com.luisgonzalez.demo.FRAGMENTS.mHomeFragmentView">
 
     <com.google.android.gms.maps.MapView
         android:id="@+id/mapView"

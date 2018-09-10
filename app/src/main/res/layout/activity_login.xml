@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dispersiondigital.smartclaritydemo.com.dispersiondigital.demo.CORE.LoginActivity">
+    tools:context="com.luisgonzalez.demo.CORE.LoginActivity">
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"

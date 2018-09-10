@@ -19,8 +19,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.dispersiondigital.demo.CORE.Myapp;
-import com.dispersiondigital.smartclaritydemo.R;
+import com.luisgonzalez.demo.CORE.Myapp;
+import com.luisgonzalez.demo.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;
